@@ -1,0 +1,2 @@
+PytelegrambotApi
+gTTS
